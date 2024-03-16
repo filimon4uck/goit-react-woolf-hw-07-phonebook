@@ -1,0 +1,6 @@
+.contact_cont {
+  display: flex;
+  flex-direction: row;
+  max-width: 350px;
+  justify-content: space-between;
+}
